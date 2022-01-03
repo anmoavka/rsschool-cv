@@ -1,0 +1,41 @@
+.container {
+    width: 1000px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: left;
+  }
+
+.header {
+    margin: 30px auto;
+    padding: 5px 5px;
+    background-color: rgb(225, 231, 229);
+}
+
+.photo {
+  height: 70px;
+}
+
+
+.github {
+    font-size: 50px;
+    line-height: 70px;
+    font-weight: 900;
+}
+
+.cv {
+  font-size: 42px;
+  line-height: 44px;
+  font-weight: 900;
+}
+
+.footer_year {
+    font-size: 42px;
+    line-height: 44px;
+    font-weight: 900;
+}
+
+.rs_school_img {
+  height: 70px;
+
+}
+ 
